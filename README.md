@@ -1,5 +1,4 @@
 
-Heart Disease Prediction & Patient Risk Analytics Dashboard
 
 This repository contains the full Power BI case study, documentation, and files for the Heart Disease Analytics Dashboard, developed using Power BI to analyze patient health indicators and identify heart disease risk factors.
 
